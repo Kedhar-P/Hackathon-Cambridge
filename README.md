@@ -27,4 +27,4 @@ The two main things that we are aiming to develop is creating an Android version
 Swift, SwiftUI, Objective-C, XCode IDE.
 
 ### Contributors
-Rhys Mahon, Zak Glenn, David Sangojinmi, Kedhar Pydimarry, Clara Gray
+Rhys Mahon, Zak Glenn, David Sangojinmi, Kedhar Pydimarry, Clara Ramsay Gray
