@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent-signs-icon-warning-icon-security-icon-set-icon-5da593af8239d6.0845190815711323355334.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
