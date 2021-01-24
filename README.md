@@ -26,5 +26,5 @@ The two main things that we are aiming to develop is creating an Android version
 ## Built with
 Swift, SwiftUI, Objective-C, XCode IDE.
 
-###Contributors
+### Contributors
 Rhys Mahon, Zak Glenn, David Sangojinmi, Kedhar Pydimarry, Clara Gray
